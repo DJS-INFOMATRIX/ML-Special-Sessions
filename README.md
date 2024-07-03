@@ -16,11 +16,19 @@ This session provides an introduction to Keras, a powerful and user-friendly dee
 - Building and training neural networks with Keras
 - Hands-on examples and best practices
 
+### July 3, 2024 - Keras Session 2
+In this session, additional information about the Keras library was discussed which is as follows:
+- Keras Ecosystem
+- Saving models in Keras
+- Custom PY Scripts for Dense, Dropouts & Models
+- AutoEncoders
+- Next Session: "How design Models for Multiple I/Os?"
+
 ## Repository Contents
 - **Notebooks**: Jupyter notebooks containing code and explanations from the sessions.
 - **Slides**: Presentation slides used during the sessions.
 - **Datasets**: Sample datasets used for practical demonstrations.
-- **Scripts**: Python scripts for various machine learning tasks discussed in the sessions.
+- **Scripts**: Python scripts for various deep learning tasks discussed in the sessions.
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
