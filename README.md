@@ -1,5 +1,5 @@
 <div align ="center" >
-<img src="images/logo.jpg" height ="70" width="70">
+<img src="images-readme/logo.jpg" height ="70" width="70">
 </div>
 
 # 🤖 ML SPECIAL SESSIONS
